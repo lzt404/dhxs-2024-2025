@@ -1,5 +1,5 @@
 ## 电航学社社EDA培训资料
-讲师:梁华鑫
+讲师:电航学社培训组
 
 ## 推送资料
 https://oshwhub.com/article/dalian-maritime-university-2024-dcdc-training-successfully-completed
